@@ -1,4 +1,4 @@
-# Research Plan for stay
+# Research Plan for Stay
 
 Topic:
 - The wind velocity data were acquired from the onshore mid-precision weather sensors at the three locations in Calabria. (Can be point and spatial)
@@ -7,9 +7,8 @@ Topic:
 
 
 Steps:
-1. Data: create a data inventory (including co-variates)
-2. Method: make it modular
-3. Verification: https://onlinelibrary.wiley.com/doi/epdf/10.1002/we.2497, E
+1. Data: create a data inventory (including covariates)
+2. Method: Make it modular
+3. Verification: https://onlinelibrary.wiley.com/doi/epdf/10.1002/we.2497
 http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/browell_eem2017.pdf
-http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/very_short_term_reveiw.pdf
 http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/very_short_term_reveiw.pdf
