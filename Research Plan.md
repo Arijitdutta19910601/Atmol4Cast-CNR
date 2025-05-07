@@ -1,14 +1,44 @@
 # Research Plan for Stay
 
-Topic:
-- The wind velocity data were acquired from the onshore mid-precision weather sensors at the three locations in Calabria. (Can be point and spatial)
-- Forecasting for the short Term (24 to 48 hours). Frequency: 5/10 minutes forecast frequency.
-- Stochastic probabilistic techniques like Bayesian networks and Granger causality-based probabilistic graphical models development, and then using Graphical Neural Networks / Hidden Markov Model to process the data for Forecasting.
+## Title
+
+Descriptive and specific to the theme of the research stay.
+
+## Participant Info
+
+Name, affiliation, and optionally supervisor(s).
+
+## Objectives / Goals
+
+What the stay aims to achieve (scientific questions, outcomes, collaborations).
+
+## Context and Alignment
+
+How the visitor’s expertise connects with host activities/projects.
+
+## Structure by Time (usually by month or phase)
+
+Month 1: Orientation, literature, data familiarization
+
+Month 2: Method development, prototyping
+
+Month 3: Testing, application, documentation
+
+## Deliverables / Outputs
+
+Scripts, datasets, notebooks, reports, presentations, or publications.
+
+## Optional Additions
+
+Expected meetings or collaborations
+
+## Learning outcomes
+
+Integration with ongoing EU/industry/national projects
 
 
-Steps:
-1. Data: create a data inventory (including covariates)
-2. Method: Make it modular
-3. Verification: https://onlinelibrary.wiley.com/doi/epdf/10.1002/we.2497
+
+## Literature:
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/we.2497
 http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/browell_eem2017.pdf
 http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/very_short_term_reveiw.pdf
