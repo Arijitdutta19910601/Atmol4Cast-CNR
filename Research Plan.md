@@ -6,7 +6,9 @@ Descriptive and specific to the theme of the research stay.
 
 ## Participant Info
 
-Name, affiliation, and optionally supervisor(s).
+Name: # Arijit Dutta
+Affiliation: # University of Calabria & ISAC-CNR Lamezia Terme
+Supervisor(s): Prof. Dr. Floriano De Rango
 
 ## Objectives / Goals
 
@@ -14,12 +16,12 @@ What the stay aims to achieve (scientific questions, outcomes, collaborations).
 
 ## Context and Alignment
 
-How the visitor’s expertise connects with host activities/projects.
+How the visitor’s expertise connects with the host activities/projects.
 
 ## Structure by Time (usually by month or phase)
 
 Month 1: Orientation, literature, data familiarization
-
+        # Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, also focused on AD, ETS, and CRPS     implementation detail.
 Month 2: Method development, prototyping
 
 Month 3: Testing, application, documentation
