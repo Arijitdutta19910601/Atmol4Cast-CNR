@@ -2,17 +2,18 @@
 
 ## Title
 
-Descriptive and specific to the theme of the research stay.
+Descriptive and specific to the theme of the research study.
 
 ## Participant Info
 
 Name: # Arijit Dutta
 Affiliation: # University of Calabria & ISAC-CNR Lamezia Terme
-Supervisor(s): Prof. Dr. Floriano De Rango
+Primary Supervisor(s): # Prof. Dr. Floriano De Rango and Dr. Claudia Roberta Calidonna
+Supervisor in Host Institute: # Dr. Irene Schicker
 
 ## Objectives / Goals
 
-What the stay aims to achieve (scientific questions, outcomes, collaborations).
+The short-term wind speed forecasting using a precise implementation 
 
 ## Context and Alignment
 
@@ -21,7 +22,9 @@ How the visitor’s expertise connects with the host activities/projects.
 ## Structure by Time (usually by month or phase)
 
 Month 1: Orientation, literature, data familiarization
-        # Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, also focused on AD, ETS, and CRPS     implementation detail.
+# Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
+# Week 2:
+
 Month 2: Method development, prototyping
 
 Month 3: Testing, application, documentation
