@@ -6,10 +6,10 @@ Descriptive and specific to the theme of the research study.
 
 ## Participant Info
 
-Name: # Arijit Dutta
-Affiliation: # University of Calabria & ISAC-CNR Lamezia Terme
-Primary Supervisor(s): # Prof. Dr. Floriano De Rango and Dr. Claudia Roberta Calidonna
-Supervisor in Host Institute: # Dr. Irene Schicker
+### Name: Arijit Dutta
+### Affiliation: University of Calabria & ISAC-CNR Lamezia Terme
+### Primary Supervisor(s): Prof. Dr. Floriano De Rango and Dr. Claudia Roberta Calidonna
+### Supervisor in Host Institute: Dr. Irene Schicker
 
 ## Objectives / Goals
 
@@ -22,8 +22,8 @@ How the visitor’s expertise connects with the host activities/projects.
 ## Structure by Time (usually by month or phase)
 
 Month 1: Orientation, literature, data familiarization
-# Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
-# Week 2:
+### Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
+### Week 2:
 
 Month 2: Method development, prototyping
 
