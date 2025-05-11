@@ -2,7 +2,7 @@
 
 ## Title
 
-Descriptive and specific to the theme of the research study.
+### Descriptive and specific to the theme of the research study.
 
 ## Participant Info
 
@@ -21,13 +21,13 @@ How the visitor’s expertise connects with the host activities/projects.
 
 ## Structure by Time (usually by month or phase)
 
-Month 1: Orientation, literature, data familiarization
-### Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
-### Week 2:
+### Month 1: Orientation, literature, data familiarization
+#### Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
+#### Week 2:
 
-Month 2: Method development, prototyping
+### Month 2: Method development, prototyping
 
-Month 3: Testing, application, documentation
+### Month 3: Testing, application, documentation
 
 ## Deliverables / Outputs
 
