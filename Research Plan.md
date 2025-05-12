@@ -1,6 +1,6 @@
 # Research Plan for Stay
 
-## Title
+## Study and Design of Data Collection & Forecasting System for Wind Energy Potential Discovery and Forecasting
 
 ### Probabilistic Data Driven Causality Inferencing and Graphical Neural Network based Forecasting.
 
@@ -10,6 +10,7 @@
 ### Affiliation: University of Calabria & ISAC-CNR Lamezia Terme
 ### Primary Supervisor(s): Prof. Dr. Floriano De Rango and Dr. Claudia Roberta Calidonna
 ### Supervisor in Host Institute: Dr. Irene Schicker
+### This project is jointly funded by Tech4You-CNR (Identification Code: ECS_00000009 | CUP: H23C22000370006), which comes under the scheme National Recovery and Resilience Planning (PNRR) under the Ministry of University Research (MIUR), Government of Italy.
 
 ## Objectives / Goals
 
@@ -17,7 +18,7 @@
 
 ## Context and Alignment
 
-How the visitor’s expertise connects with the host activities/projects.
+### The previous projects of the Atmol4Cast-REN group of Geosphere Austria have profound experience and relevant evidence in Wind Data Forecasting. The projects, such as MEDEA, SSEA, Wind4Future, and WINDSOR, are some of the work they have done extensively on wind speed and energy forecasting for short-term and nowcasting. 
 
 ## Structure by Time (usually by month or phase)
 
@@ -39,7 +40,7 @@ Expected meetings or collaborations
 
 ## Learning outcomes
 
-Integration with ongoing EU/industry/national projects
+
 
 
 
