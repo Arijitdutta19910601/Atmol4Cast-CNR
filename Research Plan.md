@@ -1,8 +1,10 @@
 # Research Plan for Stay
 
-## Project Title : ### Study and Design of Data Collection System for Discovery of Potential Renewable Sources using IoT.
+## Project Title : 
+### Study and Design of Data Collection System for Discovery of Potential Renewable Sources using IoT.
 
-## Mobility Period Mission: ### Probabilistic Data Driven Causality Inferencing and Graphical Neural Network based Forecasting.
+## Mobility Period Mission: 
+### Probabilistic Data Driven Causality Inferencing and Graphical Neural Network based Forecasting.
 
 ## Participant Info
 
