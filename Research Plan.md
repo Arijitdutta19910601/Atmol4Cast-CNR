@@ -13,7 +13,7 @@
 
 ## Objectives / Goals
 
-###[Onshore & Offshore Data] -> [Preprocessing & Lag Features] -> [Probabilistic Causal Graphs] -> [Causal Inference: Who affects whom?] -> [Graph Neural Network / Traditional Forecasting] -> [Comparison of Results with NWP]
+### [Onshore & Offshore Data] -> [Preprocessing & Lag Features] -> [Probabilistic Causal Graphs] -> [Causal Inference: Who affects whom?] -> [Graph Neural Network / Traditional Forecasting] -> [Comparison of Results with NWP]
 
 ## Context and Alignment
 
