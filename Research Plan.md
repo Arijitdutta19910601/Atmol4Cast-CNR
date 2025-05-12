@@ -8,11 +8,11 @@
 
 ## Participant Info
 
-### Name: Arijit Dutta
-### Affiliation: University of Calabria & ISAC-CNR Lamezia Terme
-### Primary Supervisor(s): Prof. Dr. Floriano De Rango and Dr. Claudia Roberta Calidonna
-### Supervisor in Host Institute: Dr. Irene Schicker
-### Grants and Funding: This project is jointly funded by Tech4You-CNR (Identification Code: ECS_00000009 | CUP: H23C22000370006), which comes under the scheme National Recovery and Resilience Planning (PNRR), Government of Italy, under the Next Generation EU (NGEU) instrument.
+#### Name: Arijit Dutta
+#### Affiliation: University of Calabria & ISAC-CNR Lamezia Terme
+#### Primary Supervisor(s): Prof. Dr. Floriano De Rango and Dr. Claudia Roberta Calidonna
+#### Supervisor in Host Institute: Dr. Irene Schicker
+#### Grants and Funding: This project is jointly funded by Tech4You-CNR (Identification Code: ECS_00000009 | CUP: H23C22000370006), which comes under the scheme National Recovery and Resilience Planning (PNRR), Government of Italy, under the Next Generation EU (NGEU) instrument.
 
 ## Objectives / Goals
 
@@ -34,7 +34,9 @@
 
 ## Deliverables / Outputs
 
-Scripts, datasets, notebooks, reports, presentations, or publications.
+#### Platform: A seamless tool for wind energy forecasting visualisation which collects wind data from heterogenous sources (Lidar, Meteo Mast, ATLAS, models etc.) harmonise preporcess and provide detailed analysis.  
+
+#### Publications: At least one reputed Q1 journal article.
 
 ## Optional Additions
 
