@@ -2,7 +2,7 @@
 
 ## Title
 
-### Descriptive and specific to the theme of the research study.
+### Probabilistic Data Driven Causality Inferencing and Graphical Neural Network based Forecasting.
 
 ## Participant Info
 
@@ -13,7 +13,7 @@
 
 ## Objectives / Goals
 
-The short-term wind speed forecasting using a precise implementation 
+###[Onshore & Offshore Data] -> [Preprocessing & Lag Features] -> [Probabilistic Causal Graphs] -> [Causal Inference: Who affects whom?] -> [Graph Neural Network / Traditional Forecasting] -> [Comparison of Results with NWP]
 
 ## Context and Alignment
 
