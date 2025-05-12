@@ -10,7 +10,7 @@
 ### Affiliation: University of Calabria & ISAC-CNR Lamezia Terme
 ### Primary Supervisor(s): Prof. Dr. Floriano De Rango and Dr. Claudia Roberta Calidonna
 ### Supervisor in Host Institute: Dr. Irene Schicker
-### This project is jointly funded by Tech4You-CNR (Identification Code: ECS_00000009 | CUP: H23C22000370006), which comes under the scheme National Recovery and Resilience Planning (PNRR) under the Ministry of University Research (MIUR), Government of Italy.
+### This project is jointly funded by Tech4You-CNR (Identification Code: ECS_00000009 | CUP: H23C22000370006), which comes under the scheme National Recovery and Resilience Planning (PNRR), Government of Italy, under the Next Generation EU (NGEU) instrument.
 
 ## Objectives / Goals
 
