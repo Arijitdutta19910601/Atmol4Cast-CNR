@@ -14,11 +14,11 @@
 
 ## Objectives / Goals
 
-### [Onshore & Offshore Data] -> [Preprocessing & Lag Features] -> [Probabilistic Causal Graphs] -> [Causal Inference: Who affects whom?] -> [GNN-based / Traditional Forecasting] -> [Comparison of Results with NWP]
+#### [Onshore & Offshore Data] -> [Preprocessing & Lag Features] -> [Probabilistic Causal Graphs] -> [Causal Inference: Who affects whom?] -> [GNN-based / Traditional Forecasting] -> [Comparison of Results with NWP]
 
 ## Context and Alignment
 
-### The previous projects of the Atmol4Cast-REN group of Geosphere Austria have profound experience and relevant evidence in Wind Data Forecasting. The projects, such as MEDEA, SSEA, Wind4Future, and WINDSOR, are some of the work they have done extensively on wind speed and energy forecasting for short-term and nowcasting. 
+#### The previous projects of the Atmol4Cast-REN group of Geosphere Austria have profound experience and relevant evidence in Wind Data Forecasting. The projects, such as MEDEA, SSEA, Wind4Future, and WINDSOR, are some of the work they have done extensively on wind speed and energy forecasting for short-term and nowcasting. 
 
 ## Structure by Time (usually by month or phase)
 
