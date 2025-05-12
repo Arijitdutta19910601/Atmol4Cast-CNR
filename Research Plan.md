@@ -16,7 +16,26 @@
 
 ## Objectives / Goals
 
-#### [Onshore & Offshore Data] -> [Preprocessing & Lag Features] -> [Probabilistic Causal Graphs] -> [Causal Inference: Who affects whom?] -> [GNN-based / Traditional Forecasting] -> [Comparison of Results with NWP]
+#### [Onshore & Offshore Data] 
+####    ↓
+#### [Preprocessing (Alignment, Cleaning, Normalization) & Feature Engineering (Lag Features, ETS Decomposition)]
+####    ↓
+#### [Dynamic Bayesian Network (DBN) Learning]
+####    ↓
+#### [Probabilistic Causal Graphs (Inferred Temporal-Causal Structure)]
+####    ↓
+#### [Graph Construction (Nodes = Stations, Edges = Causal Links, Edge Weights = Causal Strength)]
+####    ↓
+#### [DCRNN (Diffusion Convolutional Recurrent Neural Network) or STGCN (Spatio-Temporal Graph Convolutional Network)]
+####    ↓
+#### [Anomaly Detection Head (optional: via prediction uncertainty or classification)]
+####    ↓
+#### [Probabilistic Forecasting (Wind Speed Distributions) OR Traditional Deterministic Forecasting]
+####    ↓
+#### [Evaluation Metrics: CRPS, Brier Score, Reliability Diagrams, ROC Curves and AUC]
+####    ↓
+#### [Comparison with Numerical Weather Prediction (NWP) Models (e.g., WRF, ECMWF forecasts)]
+
 
 ## Context and Alignment
 
@@ -34,7 +53,7 @@
 
 ## Deliverables / Outputs
 
-#### Platform: A seamless tool for wind energy forecasting visualisation which collects wind data from heterogenous sources (Lidar, Meteo Mast, ATLAS, models etc.) harmonise preporcess and provide detailed analysis.  
+#### Platform: A seamless tool for wind energy forecasting visualisation which collects wind data from heterogenous sources (Lidar, Meteo Mast, ATLAS, models etc.) harmonise preporcess and provide detailed analysis. The comparison between these model should provide the novel architecture's edge over other existing.
 
 #### Publications: At least one reputed Q1 journal article.
 
