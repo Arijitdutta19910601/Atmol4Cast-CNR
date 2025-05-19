@@ -45,7 +45,7 @@
 
 ### Month 1: Orientation, literature, data familiarization
 #### Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
-#### Week 2:
+#### Week 2: Purely focused on understanding the orographic context, wind characteristics, and the peculiarity of the terrain of the observatory of Lamezia Terme and the other locations in Italy. The details would be useful to do Data preprocessing and feature engineering before training the model with DBN.
 
 ### Month 2: Method development, prototyping
 
@@ -53,7 +53,7 @@
 
 ## Deliverables / Outputs
 
-#### Platform: A seamless tool for wind energy forecasting visualisation which collects wind data from heterogenous sources (Lidar, Meteo Mast, ATLAS, models etc.) harmonise preporcess and provide detailed analysis. The comparison between these model should provide the novel architecture's edge over other existing.
+#### Platform: A seamless tool for wind energy forecasting visualisation which collects wind data from heterogeneous sources (Lidar, Meteo Mast, ATLAS, models, etc.), harmonizes preprocessing, and provides detailed analysis. The comparison between these model should provide the novel architecture's edge over other existing.
 
 #### Publications: At least one reputed Q1 journal article.
 
@@ -72,3 +72,4 @@ Expected meetings or collaborations
 #### http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/browell_eem2017.pdf
 #### http://www.jethrobrowell.com/uploads/4/5/4/0/45405281/very_short_term_reveiw.pdf
 #### https://royalsocietypublishing.org/doi/epdf/10.1098/rsta.2016.0101
+#### Calidonna, C. R., Dutta, A., D’Amico, F., Malacaria, L., Sinopoli, S., De Benedetto, G., Gullì, D., Ammoscato, I., De Pino, M., & Lo Feudo, T. (2025). Ten-Year Analysis of Mediterranean Coastal Wind Profiles Using Remote Sensing and In Situ Measurements. Wind, 5(2), 9. https://doi.org/10.3390/wind5020009 
