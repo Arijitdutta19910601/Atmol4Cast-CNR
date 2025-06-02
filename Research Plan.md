@@ -46,6 +46,7 @@
 ### Month 1: Orientation, literature, data familiarization
 #### Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
 #### Week 2: Purely focused on understanding the orographic context, wind characteristics, and the peculiarity of the terrain of the observatory of Lamezia Terme and the other locations in Italy. The details would be useful to do Data preprocessing and feature engineering before training the model with DBN.
+#### Weeks 3 and 4: A brief plan and accomplishments, research goals were presented. A rework has also been reinitiated on some of the previous works according to suggestions. The focus is now completely shifted to the Offshore wind data from 2013. (Alignment, Cleaning, Normalization) & Feature Engineering (Lag Features, ETS Decomposition) have been conducted and updated in the repository.
 
 ### Month 2: Method development, prototyping
 
