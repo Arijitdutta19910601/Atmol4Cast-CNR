@@ -60,11 +60,12 @@
 
 ### Month 3: Testing, application, documentation
 
-#### Weeks 1 and 2: Applied the ADF-Test to determine the stationarity of the transformed data again and found it is not seasonal. As we have multiple time series data, which could be used for regression, we applied Vector Autoregression (VAR) to capture the relationship between multiple quantities as they change over time. VAR is a type of stochastic process model. We categorically evaluated AIC, BIC, FPE, and HQIC. However, for the sake of the time series forecast, we considered the BIC.
+#### Weeks 1 and 2: Applied the ADF-Test to determine the stationarity of the transformed data again and found it is not seasonal. As we have multiple time series data, which could be used for regression, we applied Vector Autoregression (VAR) to capture the relationship between multiple quantities as they change over time. VAR is a type of stochastic process model. We categorically evaluated AIC (Akaike Information Criterion), BIC (Bayesian Information Criterion), FPE (Final Prediction Error), and HQIC (Hannan–Quinn) statistical measures. However, for the sake of the time series forecast, we considered the BIC to select the optimal lag order by evaluating the trade-off between the model's ability to fit the data (likelihood) and the number of parameters (model complexity).
+#### Weeks 3 and 4: We evaluated the Granger Causality Matrix with the BIC ordered lag and defined the influences of each metric on each vertical level of wind speed.  Further, we incorporated the Hidden Markov Model to discover the hidden causal states with the regime switch, and using a graph, we depicted the influences of those metrics on the wind speed. We also identified the Anomalies and their distribution in each regime. Finally, ETS Modelling on the transformed data to Forecast is applied.
 
 ## Deliverables / Outputs
 
-#### Platform: A seamless tool for wind energy forecasting visualisation which collects wind data from heterogeneous sources (Lidar, Meteo Mast, ATLAS, models, etc.), harmonizes preprocessing, and provides detailed analysis. The comparison between these model should provide the novel architecture's edge over other existing.
+#### Platform: A seamless tool for wind energy forecasting visualisation which collects wind data from heterogeneous sources (Lidar, Meteo Mast, ATLAS, models, etc.), harmonizes preprocessing, and provides detailed analysis. The comparison between these models should provide the novel architecture's edge over other existing models.
 
 #### Publications: At least one reputed Q1 journal article.
 
