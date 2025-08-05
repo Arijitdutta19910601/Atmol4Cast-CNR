@@ -60,7 +60,7 @@
 
 ### Month 3: Testing, application, documentation
 
-#### Weeks 1 and 2: 
+#### Weeks 1 and 2: Applied the ADF-Test to determine the stationarity of the transformed data again and found it is not seasonal. As we have multiple time series data, which could be used for regression, we applied Vector Autoregression (VAR) to capture the relationship between multiple quantities as they change over time. VAR is a type of stochastic process model. We categorically evaluated AIC, BIC, FPE, and HQIC. However, for the sake of the time series forecast, we considered the BIC.
 
 ## Deliverables / Outputs
 
