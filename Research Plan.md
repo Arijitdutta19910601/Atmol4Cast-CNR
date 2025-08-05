@@ -16,15 +16,17 @@
 
 ## Objectives / Goals
 
-#### [Onshore & Offshore Data] 
+#### [Offshore LMT Data] 
 ####    ↓
 #### [Preprocessing (Alignment, Cleaning, Normalization) & Feature Engineering (Lag Features, ETS Decomposition)]
 ####    ↓
-#### [Dynamic Bayesian Network (DBN) Learning]
+#### [Dynamic Bayesian Network (DBN) Learning] / [Hidden Markov Model + Granger Causality]
 ####    ↓
 #### [Probabilistic Causal Graphs (Inferred Temporal-Causal Structure)]
 ####    ↓
 #### [Graph Construction (Nodes = Stations, Edges = Causal Links, Edge Weights = Causal Strength)]
+####    ↓
+#### [Regime Specific Anomaly Identification]
 ####    ↓
 #### [DCRNN (Diffusion Convolutional Recurrent Neural Network) or STGCN (Spatio-Temporal Graph Convolutional Network)]
 ####    ↓
@@ -46,11 +48,19 @@
 ### Month 1: Orientation, literature, data familiarization
 #### Week 1: Spent time diving into relevant literature regarding forecasting techniques. According to the suggestions, the focus is also on AD, ETS, and CRPS implementation details.
 #### Week 2: Purely focused on understanding the orographic context, wind characteristics, and the peculiarity of the terrain of the observatory of Lamezia Terme and the other locations in Italy. The details would be useful to do Data preprocessing and feature engineering before training the model with DBN.
-#### Weeks 3 and 4: A brief plan and accomplishments, research goals were presented. A rework has also been initiated on some of the previous works according to suggestions. The focus is now completely shifted to the Offshore wind data from 2013. (Alignment, Cleaning, Normalization) & Feature Engineering (Lag Features, ETS Decomposition) have been conducted and updated in the repository.
+#### Weeks 3 and 4: A brief plan and accomplishments, research goals were presented. A rework has also been initiated on some of the previous works according to suggestions. The focus is now completely shifted to the Offshore wind data from 2015 to 2018. 
 
 ### Month 2: Method development, prototyping
 
+#### Weeks 1 and 2: Preprocessing of the LMT Wind Lidar data with the parameters as mentioned below:
+#### wind speed data for 11 vertical levels, their corresponding wind directions, air temperature, humidity, and Pressure from 2015-01-01 to 2018-12-31
+#### Removed Outliers and sensing Faults using STL Decomposition, Calculated Lagged features for 24 hours (144 steps, 10-minute data), and conducted a stationarity test and found the dataset to be stationary. Additionally calculated the residuals and the Trend.
+#### We conducted residual analysis to determine the characteristics of the data, whether it is Gaussian/Normally Distributed or not. We plotted the Q-Q plot, evaluated the Shapiro results, and conducted statistical Tests of D'Agostino and Anderson. The p-value proves the null hypothesis is true, hence it is non-Gaussian.
+#### Weeks 3 and 4: As the dataset is found to be non-Gaussian, we applied the Box-Cox, Yeo-Johnson, and Quantile Transformation on the data and obtained the kurtosis and skewness values. It is validated that the closest Gaussian Transformation of the dataset happened through the Yeo-Johnson / Power transformation.
+
 ### Month 3: Testing, application, documentation
+
+#### Weeks 1 and 2: 
 
 ## Deliverables / Outputs
 
